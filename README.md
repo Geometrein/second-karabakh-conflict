@@ -8,10 +8,9 @@ The 2020 Nagorno-Karabakh war was an armed conflict in the disputed region of Na
 
 ### **About**
 ---
-This repo contains a brief analysis of the demographics of causalities of the armenian army during the second Nagorno-Karabakh conflict. I was interested to see who are the real victims of the clash geo political interests. As the graph below illustrates the majority of deceased solders were under 20 years old. This is not unexpected. The majority of conscripts in the armenian defence forces of are under 20. 
+This repo contains a brief demographics analysis of the causalities during the second Nagorno-Karabakh conflict. I was interested to see who are the real victims of the clashing geo-political interests. The brief analysis illustrated that the majority of deceased solders were conscripts under 20.
 
-![](images/age_dist.png)
-
+![](images/age_dist.jpg)
 
 
 >“We, the unwilling, led by the unknowing, are doing the impossible for the ungrateful. We have done so much, for so long, with so little, we are now qualified to do anything with nothing." ― Konstantin Josef Jireček
